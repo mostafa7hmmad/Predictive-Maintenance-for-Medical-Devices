@@ -1,6 +1,6 @@
 # 🚀 Multi-Class Classification Using ML and ANN 📈  
 
-![header](header_image.jpg) *<!-- Replace with your actual header image -->*  
+![header](healthcare.wep) *<!-- Replace with your actual header image -->*  
 
 This project focuses on classifying tabular data into three distinct classes using a combination of traditional machine learning models and an Artificial Neural Network (ANN). The dataset consists of samples with 11 features, and the pipeline leverages clustering, feature engineering, and model optimization to achieve robust predictions.  
 
